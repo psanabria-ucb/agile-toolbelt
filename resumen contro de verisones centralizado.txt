@@ -1,0 +1,1 @@
+Los sistemas de control de versiones centralizados bloquean los archivos en los que se esta trabajando, por lo tanto si alguien esta haciendo modificaciones se debe esperar a que termine sus cambios y luego recien se puede modificar los archivos que estaban en modificacion.
