@@ -1,0 +1,11 @@
+Manuel Ochoa
+  Certificacion:
+    - Scrum Master
+    - Otros.
+
+  Temas:
+    - Que es un profesional?
+    - Control de versiones
+    - Codigo para las masas
+    - RoR
+    - Manejando todo
