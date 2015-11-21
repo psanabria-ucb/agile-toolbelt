@@ -1,0 +1,4 @@
+Sistemas de control de versiones  descentralizados
+A diferencia de los centralizados no se necesita de un servidor
+cada maquina puede  actuar como un servidor remoto tambien como cliente,  se maneja 3 copias una en el cloud, otro en la maquina
+y una copia entre  el cloud y la maquina remota conocida como "copia sucia"
